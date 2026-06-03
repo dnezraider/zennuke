@@ -1,0 +1,11 @@
+pip install discord.py
+
+pip install asyncio
+
+pip install python
+
+git clone https://github.com/dnezraider/zennuke.git
+
+cd zennuke
+
+python zenontop.py
